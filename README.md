@@ -6,3 +6,10 @@ Ultrasonic, infrared, and accelerometer sensors, microcontrollers to manage and 
 The use of IoT technology to develop smart bin waste management systems has a few advantages, such as improved garbage collection and transportation efficiency, decreased waste management costs, increased environmental sustainability, and improved public health and safety. Smart bin systems are positioned to play a significant part in encouraging sustainable waste management practices and guaranteeing a healthier environment for everyone as trash management becomes an issue that is becoming increasingly urgent in metropolitan settings.
 
 The proposed smart waste management system uses two machine learning algorithms namely Logistic Regression and LSTM (Long Short Term Memory). With the help of these algorithms, we predicted the quantity of trash in the bin and the notification will be sent for the garbage collection.
+
+#links to tableau dashboard:
+SmartBin_Management_using_LSTM
+https://public.tableau.com/views/SmartWasteManagementSystem-LSTM/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
+SmartBin_Management_using_LogisticRegression
+https://public.tableau.com/views/SmartWasteManagementSystem-LogisticRegression/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
